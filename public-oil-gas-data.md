@@ -12,10 +12,10 @@ The University of Texas system holds land and mineral rights to large areas in W
 http://www.utlands.utsystem.edu/  
 
 ### State Regulatory Agencies
-Many state regulatory agencies in the U.S. maintain online databases and query systems for oil and gas well data. These can be tedious to access by hand, but offer a rich source of potentially-scrapable data.
-Alaska Oil and Gas Conservation Commission [**includes log data**] (http://doa.alaska.gov/ogc/)  
-California Division of Oil, Gas, and Geothermal Resources (http://www.conservation.ca.gov/dog/Pages/Index.aspx)  
-Colorado Oil and Gas Conservation Commission (http://cogcc.state.co.us/)  
-Oklahoma Corporation Commission (http://www.occeweb.com/og/oghome.htm)  
-Texas Railroad Commission (http://www.rrc.state.tx.us/)  
-Wyoming Oil & Gas Conservation Commission (http://wogcc.state.wy.us/)  
+Many state regulatory agencies in the U.S. maintain online databases and query systems for oil and gas well data. These can be tedious to access by hand, but offer a rich source of potentially-scrapable data.  
+* Alaska Oil and Gas Conservation Commission (**includes log data**) (http://doa.alaska.gov/ogc/)  
+* California Division of Oil, Gas, and Geothermal Resources (http://www.conservation.ca.gov/dog/Pages/Index.aspx)  
+* Colorado Oil and Gas Conservation Commission (http://cogcc.state.co.us/)  
+* Oklahoma Corporation Commission (http://www.occeweb.com/og/oghome.htm)  
+* Texas Railroad Commission (http://www.rrc.state.tx.us/)  
+* Wyoming Oil & Gas Conservation Commission (http://wogcc.state.wy.us/)  
