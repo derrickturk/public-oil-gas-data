@@ -19,3 +19,8 @@ Many state regulatory agencies in the U.S. maintain online databases and query s
 * Oklahoma Corporation Commission (http://www.occeweb.com/og/oghome.htm)  
 * Texas Railroad Commission (http://www.rrc.state.tx.us/)  
 * Wyoming Oil & Gas Conservation Commission (http://wogcc.state.wy.us/)  
+
+# Public Mapping & GIS Data
+### USGS National Map Viewer
+Download various publicly-available topo, etc. maps.  
+http://viewer.nationalmap.gov/viewer/  
